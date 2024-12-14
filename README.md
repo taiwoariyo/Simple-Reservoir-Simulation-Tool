@@ -12,7 +12,7 @@ INPUT: Dataset (CSV, Xcel, JSON, Database)
 
 OUTPUT: 1D Reservoir Model to predict future reservoir behaviors. Static and interactive plots for visualization.
 
-KEY FEATURES: Reservoir Simulation 	Reservoir Modeling 		History Matching 				Forecasting 		Optimization 		Visualization
+KEY FEATURES: Reservoir Simulation, 	Reservoir Modeling, 		History Matching, 			Forecasting,		Optimization 		Visualization
 
 
 STEP 2: ARCHITECTURE AND LIBRARIES
@@ -71,7 +71,7 @@ WEB INTERFACE: Streamlit
 STEP 8: DEPLOYMENT AND MAINTENANCE
 
 
-DEPLOY AS WEB APPLICATION: 	AWS 		Google Cloud 	Docker
+DEPLOY AS WEB APPLICATION: 	AWS, 	Google Cloud, 	Docker
 
 REGULAR UPDATES: 	Based on User Feedback
 
