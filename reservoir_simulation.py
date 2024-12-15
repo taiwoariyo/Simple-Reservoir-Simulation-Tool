@@ -74,7 +74,7 @@ def plot_saturation(saturation_profiles, x):
         zaxis_title='Saturation'))
     st.plotly_chart(fig)
 
-
+# Forecasting Visualization
 def plot_production_forecast(model, X_test, y_test):
     predictions = model.predict(X_test)
     plt.scatter(X_test['time'], y_test, color='blue', label='True Production Rate')
